@@ -1,1 +1,1 @@
-# .github
+# ErgoQuest Chair Control App
