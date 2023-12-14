@@ -1,4 +1,4 @@
-![](http://www.ergoquest.com/uploads/5/9/1/5/5915120/1385607884.png)
+![image](https://github.com/calvin-cs262-fall2023-teamB/.github/assets/32146550/fa49a872-bc1a-410d-859b-c9e84f6f56e6)
 
 # ErgoQuest Chair Control App
 This is the codespace for the ErgoQuest Chair Control App.
